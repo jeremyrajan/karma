@@ -378,7 +378,7 @@
     "bluebird": "^3.3.0",
     "body-parser": "^1.16.1",
     "chokidar": "^2.0.3",
-    "colors": "^1.1.0",
+    "colors": "^1.4.0",
     "combine-lists": "^1.0.0",
     "connect": "^3.6.0",
     "core-js": "^2.2.0",
