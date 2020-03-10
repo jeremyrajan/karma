@@ -377,7 +377,7 @@
   "dependencies": {
     "bluebird": "^3.3.0",
     "body-parser": "^1.16.1",
-    "chokidar": "^2.0.3",
+    "chokidar": "^2.1.8",
     "colors": "^1.1.0",
     "combine-lists": "^1.0.0",
     "connect": "^3.6.0",
