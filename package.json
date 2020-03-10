@@ -375,7 +375,7 @@
     "Jurko Gospodnetić <jurko.gospodnetic@pke.hr>"
   ],
   "dependencies": {
-    "bluebird": "^3.3.0",
+    "bluebird": "^3.7.2",
     "body-parser": "^1.16.1",
     "chokidar": "^2.0.3",
     "colors": "^1.1.0",
